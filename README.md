@@ -1,13 +1,14 @@
 [![MasterHead](https://i.pinimg.com/originals/ff/81/de/ff81dee1dcdd40d560569fe2ae94b6d3.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Safae RABBOUZI</h1>
-<h3 align="center">A passionate full-stack developer from Morocco</h3>
+<h1 align="center">Hi there👋, I'm Safae RABBOUZI</h1>
+<h3 align="center">I’m a software engineering, a passionate full-stack developer from Morocco</h3>
+<h3>Welcome to my profile</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.arcsncurves.com/hs-fs/hubfs/sea-of-code-1.gif?width=499&name=sea-of-code-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safae-rabbouzi&label=Profile%20views&color=0e75b6&style=flat" alt="safae-rabbouzi" /> </p>
 
-- 🔭 I’m currently working on **improving my skills**
+- 🔭 I’m currently working on **full stack development**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **safaerabbouzi20@gmail.com**
 
